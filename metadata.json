@@ -1,0 +1,5 @@
+{
+  "name": "Sudan GoldMapper",
+  "description": "An AI-powered geospatial analysis tool to identify areas in Sudan with high gold potential by analyzing satellite, geological, and elevation data.",
+  "requestFramePermissions": []
+}
