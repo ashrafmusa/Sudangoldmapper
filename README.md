@@ -1,14 +1,19 @@
-# Run and deploy your AI Studio app
+# Sudan GoldMapper
 
-This contains everything you need to run your app locally.
+💡 Sudan GoldMapper is a geospatial AI platform that integrates:
+- Satellite imagery (NDVI, Iron Oxide, Clay minerals)
+- Terrain analysis (Slope)
+- Machine Learning (Random Forest)
 
-## Run Locally
+🎯 Objective:
+To help identify unexplored zones in Sudan with high gold mineralization potential, using science-backed AI modeling and geological indicators.
 
-**Prerequisites:**  Node.js
+🛠️ Built With:
+- React + Leaflet for frontend mapping
+- Google Earth Engine for remote sensing
+- Gemini AI for insight generation
+- TypeScript, TailwindCSS
 
+📍 Known deposit coordinates from real geological records are used to train the model.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🔬 Inspired by remote sensing, mineral alteration mapping, and AI-based exploration support.
